@@ -9,4 +9,5 @@ Um arquivo deve conter as funções e o outro deve utilizá-las.
 Nas funções devem constar todas as operações matemáticas vistas até agora entre dois números (+, -, *, /, % e //).
 Imprimir uma mensagem de agradecimento por utilizar o programa. 
 Todos do grupo devem commitar no reposiótio da atividade.
-boa tarde  aquad 5
+boa tarde  squad 5 Aron
+boa tarde squad 5 Jayme
