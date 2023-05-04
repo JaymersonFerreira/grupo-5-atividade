@@ -11,3 +11,4 @@ Imprimir uma mensagem de agradecimento por utilizar o programa.
 Todos do grupo devem commitar no reposiótio da atividade.
 boa tarde  squad 5 Aron
 boa tarde squad 5 Jayme
+aceita o comite jayme
